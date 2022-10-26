@@ -12,10 +12,16 @@ The ensemble model includes:
 - "CatBoost"
 
 ## Predict Results:
-##### The predicted popularity is 50.07, which is close to true popularity 50.
+### The first result:
+
+The predicted popularity is 50.07, which is close to true popularity 50.
 
 ![pred_1](https://user-images.githubusercontent.com/82040820/197981620-3a004b81-c715-4145-870c-7904a2cf295e.png)
+![image](https://user-images.githubusercontent.com/82040820/197983045-00a11e9c-4553-454d-bf0e-57f48b6ba538.png)
 
-##### The predicted popularity is 38.71, which is close to true popularity 41.
+### The second result:
+
+The predicted popularity is 38.71, which is close to true popularity 41.
 
 ![pred_2](https://user-images.githubusercontent.com/82040820/197981649-e9c75014-3381-47e2-a226-ba288200fa3d.png)
+![image](https://user-images.githubusercontent.com/82040820/197983149-1efa38f4-c9db-445e-8799-422b18e20eaa.png)
